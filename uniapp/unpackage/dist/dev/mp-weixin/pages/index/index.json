@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "物业云缴费",
+  "usingComponents": {
+    "wxswiper": "/wxcomponents/wxswiper/index"
+  }
+}
